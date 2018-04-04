@@ -1,0 +1,7 @@
+脚本引用方法 <script src="**/**/holder.min.js"></script>
+代码使用方法 src="holder.js/300x200?text=我是占位符" 
+
+
+//先网上下载hold.js的脚本，然后引入到html的head里面。
+//holder.js下载地址：http://holderjs.com/
+//或者查看本txt同文件夹下的toolset文件夹找到imsky-holder-8220898文件。
